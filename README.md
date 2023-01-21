@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmsf94&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Tecnologias
+## Technologies
 <div style="display: inline_block"><br>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
