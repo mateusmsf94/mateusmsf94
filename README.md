@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hello, I'm Mateus 👋
+Graduated in Information Systems, passionate about technology and development. I study Web Development at Trybe, a school that teaches programming, learning and working.
 <!--
 **mateusmsf94/mateusmsf94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
 </div>
 
-## Redes Sociais
+## Social
   <div>
   <a href="https://www.linkedin.com/in/mateusmsf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusmelosf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
